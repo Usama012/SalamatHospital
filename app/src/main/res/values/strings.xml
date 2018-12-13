@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Salamat Hospital</string>
+    <string name="enter_doctor_name">Enter Doctor Name</string>
+    <string name="enter_patient_age">Enter Patient Age</string>
+    <string name="enter_patient_name">Enter Patient Name</string>
+    <string name="enter_patient_cnic">Enter Patient CNIC</string>
+    <string name="total_charges">Total Charges</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="add_patient">Add Patient</string>
+    <string name="enter_to_send">Enter To Send</string>
+    <string name="write_recive_status">Write Recive Status</string>
+    <string name="recive_status">Recive Status</string>
+    <string name="update">Update</string>
+    <string name="sent_status">Sent Status</string>
+</resources>
